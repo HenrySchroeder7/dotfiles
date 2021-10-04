@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = henry-schroeder@hotmail.com
+	name = Henry Schroeder
